@@ -1,0 +1,15 @@
+p{
+    background-color: rgb(255, 139, 107);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.secondElement{
+    color: blue;
+    font-size: 36px;
+}
+.font-sized{
+    font-size: 24px;
+}
+.green-background.bold{
+    background-color: lightgreen;
+    font-weight: bold;
+}
